@@ -21,9 +21,15 @@
     <ClCompile Include="sum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="prod.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prod.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
