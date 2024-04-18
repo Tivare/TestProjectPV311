@@ -182,7 +182,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="sum.cpp" />
     <ClCompile Include="TestProjectPV311.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="sum.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
